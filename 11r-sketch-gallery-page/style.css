@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#title{
+  font-family: 'Dancing Script', cursive;
+  font-size: 500;
+  width: 500px;
+  text-align: center;
+  /* border-style: solid; */
+  border-width: 1px;
+  /* padding: 40px; */
+  /* position: fixed; */
+  /* left: 60%; */
+}
+
+#subtitle{
+font-family: 'Dancing Script', cursive;
+font-size: small;
+text-align: center;
+width: 500px;
+}
+
